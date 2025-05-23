@@ -494,6 +494,9 @@
     .header__nav {
       gap: 30px;
     }
+    .header__link {
+      font-size: 14px;
+    }
   }
 
   @media (max-width: 1200px) {
