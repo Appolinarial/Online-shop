@@ -489,7 +489,11 @@
     }
   
   }
-  
+  @media (max-width: 1400px) {
+    .header__nav {
+      gap: 30px;
+    }
+  }
   @media (max-width: 1200px) {
     .topbar {
       display: none;
